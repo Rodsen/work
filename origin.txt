@@ -1,0 +1,660 @@
+Uri: http://cqsh8888.b.g3wei.com/
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\index.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/css/animate.min.css
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\css\animate.min.css
+Content Type: text/css
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/css/editor.css
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\css\editor.css
+Content Type: text/css
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/css/common.css
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\css\common.css
+Content Type: text/css
+
+Uri: http://cqsh8888.b.g3wei.com/about.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\about.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/culture.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\culture.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/honor.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\honor.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/contact.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\contact.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\index.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/case/
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\case\index.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-74.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-74.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-75.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-75.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-76.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-76.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-77.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-77.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-78.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-78.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-5.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-5.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-8.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-8.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-7.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-7.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-11.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-11.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-12.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-12.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-13.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-13.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-98.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-98.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-97.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-97.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-96.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-96.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-95.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-95.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-94.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-94.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-93.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-93.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-92.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-92.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/case/show-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\case\show-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/case/show-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\case\show-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/show-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\show-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/show-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\show-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/show-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\show-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/show-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\show-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/feedback.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\feedback.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/js/jquery.min.js
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/js/wow.min.js
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/js/common.js
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\js\common.js
+Content Type: application/javascript
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/image/index_67.jpg?x-oss-process=image/resize,m_pad,h_120,w_120,color_FFFFFF
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\image\index_67.jfif
+Content Type: image/jpeg
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-5.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-5.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-6.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-6.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-7.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-7.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-8.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-8.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-9.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-9.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-10.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-10.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-13.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-13.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/news/list-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\news\list-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/case/list-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\case\list-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-5.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-5.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-6.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-6.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-7.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-7.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-41.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-41.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-40.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-40.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-39.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-39.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-38.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-38.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-37.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-37.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-36.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-36.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-35.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-35.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-34.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-34.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-5-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-5-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-5-3.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-5-3.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-5-4.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-5-4.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-12.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-12.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-11.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-11.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-10.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-10.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-9.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-9.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-8.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-8.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-7.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-7.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-6.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-6.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-5.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-5.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-3-2.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-3-2.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-101.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-101.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-100.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-100.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-42.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-42.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-103.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-103.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-102.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-102.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-48.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-48.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-47.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-47.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-13.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-13.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-46.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-46.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/image/Nofound.png
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\image\Nofound.png
+Content Type: image/png
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-99.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-99.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/case
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\case.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/views/user/50032907/10008/static/js/feedback.js
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\views\user\50032907\10008\static\js\feedback.js
+Content Type: application/javascript
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-91.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-91.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-90.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-90.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-89.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-89.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-88.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-88.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-87.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-87.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-86.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-86.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-85.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-85.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-84.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-84.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-83.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-83.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-82.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-82.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-81.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-81.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-80.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-80.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-79.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-79.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-72.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-72.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-71.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-71.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-70.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-70.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-69.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-69.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-68.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-68.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-11.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-11.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-67.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-67.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-66.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-66.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-65.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-65.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-64.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-64.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-63.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-63.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-62.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-62.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-61.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-61.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-60.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-60.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/index-12.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\index-12.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-59.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-59.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-58.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-58.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-57.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-57.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-56.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-56.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-55.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-55.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-54.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-54.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-53.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-53.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-52.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-52.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-51.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-51.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-50.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-50.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-49.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-49.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-45.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-45.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-44.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-44.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-43.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-43.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-33.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-33.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-32.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-32.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-31.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-31.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-30.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-30.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-29.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-29.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-28.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-28.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-27.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-27.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-26.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-26.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-25.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-25.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-24.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-24.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-23.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-23.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-22.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-22.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-6-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-6-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-5-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-5-1.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-21.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-21.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-20.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-20.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-19.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-19.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-18.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-18.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-17.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-17.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-16.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-16.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-15.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-15.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/show-14.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\show-14.html
+Content Type: text/html
+
+Uri: http://cqsh8888.b.g3wei.com/product/list-3-1.html
+File Name: D:\desktop\work2\cqsh8888.b.g3wei.com\product\list-3-1.html
+Content Type: text/html
+
