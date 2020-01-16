@@ -135,7 +135,7 @@ ul.menu li.active a{ border-bottom: 2px solid #fff;}
 
 .colorFFF{ color: #fff !important;}
 /* 产品展示------------------------------- */
-.productBox{ padding: 20px 0 50px 0; background-color: #1c18be; width: 100%; }
+.productBox{ padding: 20px 0 50px 0; background-color: #489EE2; width: 100%; }
 .productCon{ width: 1300px; margin: 0px auto; padding: 40px 0 0 0; display: flex; display:-webkit-flex; flex-direction:row; flex-wrap: nowrap; justify-content:space-between;align-items:flex-start; }
 .productCon .listL{ width: 240px; height: auto; padding-bottom: 80px; border: 1px solid #fff;  }
 .productCon .listL dt{ padding: 15px 0;  background-color: #fff;}
